@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venu4722&label=Profile%20views&color=0e75b6&style=flat" alt="venu4722" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework,Springboot**
+- 🌱 I’m currently learning **ServiceNow, Integration, Rest API'S, Spring**
 
-- 📫 How to reach me **nvenu7272@gmail.com**
+- 📫 How to reach me **nakkellavenu0@gmail.com**
 
 - ⚡ Fun fact **I am funny☺**
 
